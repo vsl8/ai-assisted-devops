@@ -1,0 +1,3 @@
+[submodule "ansible-mcp"]
+	path = ansible-mcp
+	url = git@github.com:vsl8/ansible-mcp-server.git
